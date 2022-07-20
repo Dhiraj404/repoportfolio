@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+
+
+.fo {
+    font-family: 'Pacifico', cursive;
+    color: rgb(255, 0, 0);
+}
+
+.circle {
+    background: #42A5F5;
+}
+
+// .lightt {
+//     margin-left: 188px;
+
+// }
+
+
+body {
+
+    background-color: white;
+    color: black;
+
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
+
+.btn-warning {
+    box-shadow: none !important;
+
+}
+
+.a {
+    height: 200px;
+    width: 300px;
+    border: none;
+}
+
+
+
+
+
+.class {
+
+
+    position: relative;
+
+    overflow: hidden;
+}
+
+.class img {
+
+    transition: 0.9s;
+}
+
+.class:hover img {
+    transform: scale(1.2);
+    opacity: 0.3;
+}
+
+.class h2 {
+    position: absolute;
+    top: 0;
+    color: rgb(255, 255, 255);
+    transform: translate(-400px, 40px);
+    transition: 0.9s;
+}
+
+.class:hover h2 {
+    transform: translate(50px, 90px);
+}
+
+.class h2 a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+.bibi {
+    box-shadow: none !important;
+
+}
